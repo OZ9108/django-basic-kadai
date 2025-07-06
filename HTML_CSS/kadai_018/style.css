@@ -59,17 +59,12 @@ div{
     background-color: #e5dcf0;
 }
 
-#bottom-child01{
-    position: relative;
-}
-
 #bottom-child02{
-    position: absolute;
+    position: relative;
     left: 200px;
 }
 
 #bottom-child03{
-    position: absolute;
-    top: 200px;
+    position: relative;
     left: 400px;
 }
