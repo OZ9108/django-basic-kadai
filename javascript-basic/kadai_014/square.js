@@ -1,5 +1,5 @@
 const squared =(argument)=>{
-    console.log(argument*argument);
+    return argument*argument;
 }
 
-squared(100);
+console.log(squared(100));
